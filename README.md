@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Opensource projects.
 - 📫 How to reach me lakshmik.kuchimanchi@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+
 
 <!---
 klakshmik/klakshmik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
